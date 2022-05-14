@@ -53,6 +53,11 @@ form button:hover {
     list-style: none;
 }
 
+.todo-button, .todo-input {
+    padding: 5.5px;
+}
+
+
 .todo {
     margin: 0.5rem;
     background: white;
